@@ -22,3 +22,4 @@ pnpm-debug.log*
 # test outputs
 tests/test-output.log
 tests/TEST_REPORT.md
+node_modules
